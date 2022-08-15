@@ -23,11 +23,29 @@ Ekstra data:
     - Geo map for priser baseret på område
     - Korrelation plots (for alle variable [10 variable på nuværende tidspunkt er relevante])
 
+4. Analyse:
+    - Lav measures på 
+            - metro
+            - ladestationer
+            - afstande til kyst
+            - parker
+            - vurdering af skoler (karaktergennemsnit) 
+            - Støjniveau
+            - luftforurening
+            - restaurenter, fastfood/take-away
+            - grønne arealer (træer)
+            - (overvej om andre er relevante)
+    - Lave pandas 'bins' til at kategorisere de forskellige variable indenfor de respektive geografiske områder
 
 Fremgangsmetode:
     - Baseline model (uden geografiske features)
         - OLS, lasso, Rainforest og SGBOOST
     - Udvidet model (f.eks. afstanden til ladestandere og vand om hvorvidt det kan påvirke pris)
+
+Grundlag for data:
+    - Boliga.dk
+    - Københavns kommunes open data
+    - Danmarks Statistik
 
 Arbejdsfordeling:
     - HC: Geodata
