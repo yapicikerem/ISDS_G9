@@ -16,3 +16,9 @@ To do list:
 Ekstra data:
 	- CPI data skal merges ind i main-data (2022-justeret). Data fra 1980-2022
 		- left merge på måned og år
+
+
+Arbejdsfordeling:
+    - HC: Geodata
+    - Julius: ML
+    - Kerem: Datarens
