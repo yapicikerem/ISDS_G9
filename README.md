@@ -17,6 +17,17 @@ Ekstra data:
 	- CPI data skal merges ind i main-data (2022-justeret). Data fra 1980-2022
 		- left merge på måned og år
 
+3. Deskriptiv
+    - Density plot huspriser (normalfordeling der højst ssh. er højreskæv)
+    - Boxplot af outliers
+    - Geo map for priser baseret på område
+    - Korrelation plots (for alle variable [10 variable på nuværende tidspunkt er relevante])
+
+
+Fremgangsmetode:
+    - Baseline model (uden geografiske features)
+        - OLS, lasso, Rainforest og SGBOOST
+    - Udvidet model (f.eks. afstanden til ladestandere og vand om hvorvidt det kan påvirke pris)
 
 Arbejdsfordeling:
     - HC: Geodata
