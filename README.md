@@ -58,6 +58,7 @@ Ekstra data:
     - Smid reference til 'Statistical paradises and paradoxes' ift. sample selection
     - Overvej train/validation/test split for Lasso og Ridge ift. at finetune hyperparameters (find referencer ift. rule of thumbs).
     - Repeat above med udvidet model including geospatial measures
+    - Lav learning curves for at vurdere vigtighed af sample length.
 
 Grundlag for data:
     - Boliga.dk
