@@ -19,6 +19,7 @@ To do list:
 	- Kategoriske variable skal justeres, så de passer til ML algoritmer.
 	- JUSTER SQMPRICES MED CPI FØR VI FJERNER OUTLIERS!
 	- Bliv lige sikker på, at de laveste salgspriser vi inkluderer er reasonable - tjek husspecfikiation for nogle af de billigste huse
+	- SKAL NÆVNE POINTER IFT. TIDSPERIODE MED METROLINJEN OG LADESTATIONER - er kun relevant for nyere boliger!
 
 Ekstra data:
 	- CPI data skal merges ind i main-data (2022-justeret). Data fra 1980-2022
