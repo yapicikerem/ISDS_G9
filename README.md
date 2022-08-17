@@ -48,12 +48,13 @@ Ekstra data:
             - renter (optional)
     - Lave pandas 'bins' til at kategorisere de forskellige variable indenfor de respektive geografiske områder
 
-Machine Learning - OLS, LASSO, Ridge, Random forest og XGBOOST:
+5. Machine Learning - OLS, LASSO, Ridge, Random forest og XGBOOST:
     - Feature selection for baseline model by correlation plots (uden geografiske features)
     - Polynomial feature selection by scatter plots (for OLS, LASSO, Ridge)
     - Train/validation/test split with test data being most recent (overvej at undersøge backtesting)
     - Standardize data wrt. training data for LASSO and Ridge to prevent data leakage
     - Find reference article for rule of thumb for train/test split depending on no. of observations
+    - Smid reference om importance af i.i.d. assumption i relation til theory of generalization --> Vapnik–Chervonenkis theory (dette er den mest kendte teori der basically stater assumptions, hvorunder supervised ML algoritmer kan generalisere, i.e. have god out-of-sample performance)
     - Smid reference til 'Statistical paradises and paradoxes' ift. sample selection
     - Overvej train/validation/test split for Lasso og Ridge ift. at finetune hyperparameters (find referencer ift. rule of thumbs).
     - Repeat above med udvidet model including geospatial measures
