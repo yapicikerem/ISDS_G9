@@ -10,7 +10,7 @@ To do list:
 	- Fiks titel
 	- Fiks sprog til engelsk, så der kommer til at stå abstract i stedet for resumé, og contents i stedet for indholdsfortegnelse
 	- Vi skal have abstract :D (jeg skal nok skrive et lynhurtigt)
-	- Jeg synes vi skal have gruppemedlemmer for forside (med eksamensnumre) - hvad tænker I?
+	- Jeg synes vi skal have gruppemedlemmer for forside (med eksamensnumre) - hvad tænker I? (done (KY) - 18-08-2022)
 
 2. Datarens
 	- Nævne inflationsjusteringen og muligvis gå med data fra '09 og frem grundet paradigmskfite på boligmarkedet
