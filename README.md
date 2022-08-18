@@ -5,6 +5,8 @@ Last updated: 17-08-2022
 
 To do list:
 
+FIND LØSNING PÅ HVORDAN VI SÆTTER JUPYTER NOTEBOOK OP IFT. INDLÆSNING AF FILER - der må være en smart måde at gøre det på.
+
 1. Latex dokument
 	- Ift. hvordan vi skal skrive - short and to the point --> vi skal ikke skrive ligesom de gør i exam project, som Tobias har lagt op.
 	- Fiks titel
