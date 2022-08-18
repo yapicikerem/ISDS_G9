@@ -61,6 +61,7 @@ Ekstra data:
     - Repeat above med udvidet model including geospatial measures
     - Lav learning curves for at vurdere vigtighed af sample length.
     - Find ud af hvilken løsningsform sklearn package bruger til OLS - SGD eller closed-form eller tredje? Skriv om det i opgave
+    - Page 329 ift. inverse_transform efter standardisering - anvend evt. exp() funktion på log(sqmPrices) for original skala.
 
 Grundlag for data:
     - Boliga.dk
