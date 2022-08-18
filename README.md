@@ -26,13 +26,13 @@ Ekstra data:
 		- left merge på måned og år
 
 3. Deskriptiv
-    - TAG LOG AF SQMPRICES FØR DER LAVES SCATTER PLOTS OG KORRELATION PLOTS
+    - TAG LOG AF SQMPRICES OG DEFLATÉR FØR DER LAVES SCATTER PLOTS OG KORRELATION PLOTS
+    - (HIGH PRIORITY) Yearly avg. of sqmPrice over time (both with and without adjusted for CPI) - plot after outliers have been removed.
     - Missing value plots a la Kaggle plot, som et bar-plot! Link: https://www.kaggle.com/code/donaldst/stackingandensembling
-    - Scatter plots i lower triangle form, hvor yderste plot er et density plot (gerne med density curve udover bins'ene i histogrammet)
+    - Scatter plots i lower triangle form, hvor yderste plot er et density plot (gerne med density curve udover bins'ene i histogrammet) se PML bog page 321
     - Boxplot af outliers (synes måske vi skal droppe det her når vi har så mange datapunkter - tror ikke det er super egnet)
-    - Heat-Geo map for priser baseret på område
-    - Correlation plots (se, om det også virker med kategoriske variable)
-    - Yearly avg. of sqmPrice over time (both with and without adjusted for CPI) - plot after outliers have been removed.
+    - Heat-Geo map for priser baseret på område (evt. zip code)
+    - Correlation plots (se, om det også virker med kategoriske variable) - se PML bog page 324
 
 4. Analyse:
     - Lav measures på 
