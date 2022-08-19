@@ -15,6 +15,7 @@ FIND LØSNING PÅ HVORDAN VI SÆTTER JUPYTER NOTEBOOK OP IFT. INDLÆSNING AF FIL
 	- Jeg synes vi skal have gruppemedlemmer for forside (med eksamensnumre) - hvad tænker I? (done (KY) - 18-08-2022)
 
 2. Datarens
+	- CLEAN REMAINING OUTLIERS!! toilets, lotSize etc.
 	- Nævne inflationsjusteringen og muligvis gå med data fra '09 og frem grundet paradigmskfite på boligmarkedet
 	- Lav en tabel med NaN's for hver variable (bindestreg benyttes i data som NaN). Lav det derudover som andele af totalen (Done)
 	- Kig på dupliketter. Dette er relevant for adresse-variablen (70 stks ca.) (Done)
