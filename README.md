@@ -16,27 +16,26 @@ FIND LØSNING PÅ HVORDAN VI SÆTTER JUPYTER NOTEBOOK OP IFT. INDLÆSNING AF FIL
 
 2. Datarens
 	- Nævne inflationsjusteringen og muligvis gå med data fra '09 og frem grundet paradigmskfite på boligmarkedet
-	- Lav en tabel med NaN's for hver variable (bindestreg benyttes i data som NaN). Lav det derudover som andele af totalen
-	- Kig på dupliketter. Dette er relevant for adresse-variablen (70 stks ca.)
+	- Lav en tabel med NaN's for hver variable (bindestreg benyttes i data som NaN). Lav det derudover som andele af totalen (Done)
+	- Kig på dupliketter. Dette er relevant for adresse-variablen (70 stks ca.) (Done)
 	- Kategoriske variable skal justeres, så de passer til ML algoritmer.
-	- JUSTER SQMPRICES MED CPI FØR VI FJERNER OUTLIERS!
+	- JUSTER SQMPRICES MED CPI FØR VI FJERNER OUTLIERS! (Done)
 	- Bliv lige sikker på, at de laveste salgspriser vi inkluderer er reasonable - tjek husspecfikiation for nogle af de billigste huse
 	- SKAL NÆVNE POINTER IFT. TIDSPERIODE MED METROLINJEN OG LADESTATIONER - er kun relevant for nyere boliger!
 
 Ekstra data:
-	- CPI data skal merges ind i main-data (2022-justeret). Data fra 1980-2022
-		- left merge på måned og år
+	- CPI data skal merges ind i main-data (2022-justeret). Data fra 1980-2022 (Done)
 
 3. Deskriptiv
-    - TAG LOG AF SQMPRICES OG DEFLATÉR FØR DER LAVES SCATTER PLOTS OG KORRELATION PLOTS
-    - (HIGH PRIORITY) Yearly avg. of sqmPrice over time (both with and without adjusted for CPI) - plot after outliers have been removed.
-    - Missing value plots a la Kaggle plot, som et bar-plot! Link: https://www.kaggle.com/code/donaldst/stackingandensembling
+    - TAG LOG AF SQMPRICES OG DEFLATÉR FØR DER LAVES SCATTER PLOTS OG KORRELATION PLOTS (Done)
+    - (HIGH PRIORITY) Yearly avg. of sqmPrice over time (both with and without adjusted for CPI) - plot after outliers have been removed. (Done)
+    - Missing value plots a la Kaggle plot, som et bar-plot! Link: https://www.kaggle.com/code/donaldst/stackingandensembling (Done)
     - Scatter plots i lower triangle form, hvor yderste plot er et density plot (gerne med density curve udover bins'ene i histogrammet) se PML bog page 321
     - Boxplot af outliers (synes måske vi skal droppe det her når vi har så mange datapunkter - tror ikke det er super egnet)
     - Heat-Geo map for priser baseret på område (evt. zip code)
     - Correlation plots (se, om det også virker med kategoriske variable) - se PML bog page 324
 
-4. Analyse:
+4. Analyse: (STOR FED DONE)
     - Lav measures på 
             - metro
             - ladestationer
