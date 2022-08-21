@@ -5,6 +5,7 @@ Last updated: 17-08-2022
 
 To do list:
 
+Skal have fundet ud af en god struktur i notebook ift. plots osv.
 FIND LØSNING PÅ HVORDAN VI SÆTTER JUPYTER NOTEBOOK OP IFT. INDLÆSNING AF FILER - der må være en smart måde at gøre det på.
 
 Hvis vi har tid:
