@@ -1,7 +1,7 @@
 # ISDS_G9
 Introduction to Social Data Science (Group 9)
 
-Last updated: 17-08-2022
+Last updated: 22-08-2022
 
 To do list:
 
