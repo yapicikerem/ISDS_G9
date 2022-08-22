@@ -8,7 +8,7 @@ Our repository has the following files included:
   - Articles used in our project
   - df_parquet.gzip file
   - houses_merged.gzip file
-  - Project Desriåtion 
+  - Project Description 
 
 **Dependencies:** Apart from a standard Anaconda Python 3 (version 3.8.13) installation, the project requires the following installations:
   - asttokens=2.0.5=pyhd8ed1ab_0
